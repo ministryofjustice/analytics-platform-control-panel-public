@@ -1,7 +1,7 @@
 asgiref==3.5.2
 auth0-python==3.13.0
 beautifulsoup4==4.11.1
-boto3==1.20.13
+boto3==1.26.74
 channels==4.0.0
 channels-redis==4.0.0
 daphne==4.0.0
