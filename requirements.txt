@@ -21,7 +21,7 @@ Jinja2==2.11.3
 kubernetes==25.3.0
 MarkupSafe==2.0.1
 model-mommy==2.0.0
-moto==1.3.14
+moto==4.1.9
 mozilla-django-oidc==3.0.0
 psycopg2-binary==2.9.5
 pytest==7.3.1
